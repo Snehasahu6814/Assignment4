@@ -1,0 +1,23 @@
+[
+    {
+        "EMP ID": 1,
+        "EMP NAME": "Julia Rollins",
+        "EMP EMAIL": "lucashernandez@example.net",
+        "Business Unit": "Developer",
+        "Salary": 87653
+    },
+    {
+        "EMP ID": 2,
+        "EMP NAME": "Gerald Moore",
+        "EMP EMAIL": "robertroberson@example.com",
+        "Business Unit": "Tester",
+        "Salary": 98765
+    },
+    {
+        "EMP ID": 3,
+        "EMP NAME": "Shane Patterson",
+        "EMP EMAIL": "summerkramer@example.org",
+        "Business Unit": "HR",
+        "Salary": 95479
+    }
+]
